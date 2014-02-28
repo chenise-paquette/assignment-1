@@ -21,7 +21,8 @@ html {
     font-size: 100%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-image: url(../images/water.jpg);
-    background-size: 100rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 img {
